@@ -24,12 +24,12 @@
     "wonEmmy": false
   },
   {
-    "name": "Ian McKellen",
-    "pictureUrl": "https://image.tmdb.org/t/p/w500/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg",
-    "popularity": 10.070132,
-    "id": "0067ae32-97b6-4431-898e-eb1c10150abb",
+    "name": "John Goodman",
+    "pictureUrl": "https://image.tmdb.org/t/p/w500/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
+    "popularity": 7.914248,
+    "id": "267cbff3-a043-41ac-8d99-489783d75316",
     "wonOscar": false,
-    "wonEmmy": false
+    "wonEmmy": true
   },
   {
     "name": "Matt Damon",
@@ -84,6 +84,14 @@
     "pictureUrl": "https://image.tmdb.org/t/p/w500/kuqFzlYMc2IrsOyPznMd1FroeGq.jpg",
     "popularity": 9.236478,
     "id": "32ec545d-4939-403a-acd7-dd4bca6e94dd",
+    "wonOscar": false,
+    "wonEmmy": false
+  },
+  {
+    "name": "Ian McKellen",
+    "pictureUrl": "https://image.tmdb.org/t/p/w500/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg",
+    "popularity": 10.070132,
+    "id": "0067ae32-97b6-4431-898e-eb1c10150abb",
     "wonOscar": false,
     "wonEmmy": false
   },
@@ -246,14 +254,6 @@
     "popularity": 10.273801,
     "id": "f197b07c-c0f6-4837-a4d6-f98f8673b0e6",
     "wonOscar": true,
-    "wonEmmy": true
-  },
-  {
-    "name": "John Goodman",
-    "pictureUrl": "https://image.tmdb.org/t/p/w500/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
-    "popularity": 7.914248,
-    "id": "267cbff3-a043-41ac-8d99-489783d75316",
-    "wonOscar": false,
     "wonEmmy": true
   },
   {

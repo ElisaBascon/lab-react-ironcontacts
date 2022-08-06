@@ -13,7 +13,7 @@ function App() {
   }
 
   const handleShortByPopularity = () => {
-    const orderPopularity = [...contact].sort((a, b) => a.popularity - b.popularity);
+    const orderPopularity = [...contact].sort((a, b) => b.popularity - a.popularity);
     setContact(orderPopularity);
   }
 
@@ -57,7 +57,7 @@ function App() {
           <th><p>{name}</p></th>
           <th><p>{popularity.toFixed(2)}</p></th>
           <th>{wonOscar && <span>🏆</span>}</th>
-          <th>{wonEmmy  && <span>🏆</span>}</th>
+          <th>{wonEmmy  && <span>🌟</span>}</th>
           <th><button onClick={handleDelete}>Delete</button></th>
         </tr>
         );
